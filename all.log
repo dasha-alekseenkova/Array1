@@ -1,5 +1,0 @@
-2021-03-25 01:21:25.435 [main] INFO  java.util.logging.LoggingPermission - Enter only one number
-2021-03-25 01:21:28.437 [main] WARN  java.util.logging.LoggingPermission - Enter only integers 
-2021-03-25 01:21:35.113 [main] DEBUG java.util.logging.LoggingPermission - This is debug message
-2021-03-25 01:21:35.115 [main] ERROR java.util.logging.LoggingPermission - Soon is the end of session
-2021-03-25 01:21:35.117 [main] FATAL java.util.logging.LoggingPermission - The end of session
